@@ -136,7 +136,19 @@ body {
 
 
 ```
+### Lightning version
+
+Lightning Experience brings you real-time group feeds. No more page refreshes required to see what people are saying at the exact moment they say it. Each new post is briefly highlighted to call it to your attention. This feature is available in Lightning Experience only.
+
+When new posts are added to a live feed, a message appears briefly at the top of the feed .
+
+![live feed](https://releasenotes.docs.salesforce.com/en-us/winter17/release-notes/release_notes/images/lex_chatter_live_feed_pill.png)
+
+
+
 
 ### References
 
 1. [The "Marquee" Console Footer Component](https://developer.salesforce.com/page/The_%22Marquee%22_Console_Footer_Component)
+
+2. [Group Feeds Are Now Live!](https://releasenotes.docs.salesforce.com/en-us/winter17/release-notes/rn_chatter_lex_live_feeds.htm)
