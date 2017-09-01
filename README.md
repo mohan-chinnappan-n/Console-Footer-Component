@@ -11,7 +11,6 @@
 
 ```xml
 
-
 <apex:page showHeader="false">
 
 <style>
@@ -67,13 +66,15 @@ body {
     top:1px;
 }
 </style>
+<!--
 
     <div style="margin-left:auto; margin-right:auto;width:50%;">
     <input type="button" class="classname" onclick="scrollButtonText(); return false;" value="Start" />
     <input type="button" class="classname" onclick="setButtonText(); return false;" value="Stop" />
     </div>
+  -->
   
-    <apex:includeScript value="/support/console/29.0/integration.js"/>
+    <apex:includeScript value="/support/console/40.0/integration.js"/>
 
     <script>
    
@@ -91,7 +92,7 @@ body {
     
     
   
-   <chatter:feed entityId="0F9B00000004OlO" rendered="true"/>
+   <chatter:feed entityId="003f4000004fV4e" rendered="true"/>
    
     <!-- <input type="button" onclick="blinkButtonText(); return false;" value="Blink Button Text" /> -->
      
@@ -100,7 +101,9 @@ body {
             sforce.console.openPrimaryTab(null, url, true);
         }
         
-        setInterval(function(){window.location.href = window.location.href;},600000);
+        var rate = 10000;
+        
+        setInterval(function(){window.location.href = window.location.href;},rate);
          
         function getFeedItemBody() {
             var feeds = '';
