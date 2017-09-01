@@ -159,3 +159,5 @@ When new posts are added to a live feed, a message appears briefly at the top of
 3. [Get Started with Console Components](https://trailhead.salesforce.com/en/modules/service_components/units/service_components_comfortable)
 
 4. [My Notes Console Footer Component](https://developer.salesforce.com/page/The_%22My_Notes%22_Console_Footer_Component)
+
+5. [Customize a Console with Custom Components in Salesforce Classic](https://portal2dev-dreamevent.cs61.force.com/articleView?id=console2_components_overview.htm&type=5)
