@@ -162,3 +162,5 @@ When new posts are added to a live feed, a message appears briefly at the top of
 4. [My Notes Console Footer Component](https://developer.salesforce.com/page/The_%22My_Notes%22_Console_Footer_Component)
 
 5. [Customize a Console with Custom Components in Salesforce Classic](https://portal2dev-dreamevent.cs61.force.com/articleView?id=console2_components_overview.htm&type=5)
+
+6. [chatter:feed](https://developer.salesforce.com/docs/atlas.en-us.pages.meta/pages/pages_compref_chatter_feed.htm)
