@@ -1,4 +1,4 @@
-## The "Marquee" Console Footer Component
+## Sample Marquee Console Footer Component
 
 
 ### Demo
