@@ -137,6 +137,7 @@ body {
 
 
 
+
 ```
 ### Lightning version
 
@@ -154,3 +155,7 @@ When new posts are added to a live feed, a message appears briefly at the top of
 1. [The "Marquee" Console Footer Component](https://developer.salesforce.com/page/The_%22Marquee%22_Console_Footer_Component)
 
 2. [Group Feeds Are Now Live!](https://releasenotes.docs.salesforce.com/en-us/winter17/release-notes/rn_chatter_lex_live_feeds.htm)
+
+3. [Get Started with Console Components](https://trailhead.salesforce.com/en/modules/service_components/units/service_components_comfortable)
+
+4. [My Notes Console Footer Component](https://developer.salesforce.com/page/The_%22My_Notes%22_Console_Footer_Component)
