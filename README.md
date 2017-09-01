@@ -7,6 +7,7 @@
 
 
 ------
+### Code for the footer component
 
 ```xml
 
