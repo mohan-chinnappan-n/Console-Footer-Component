@@ -97,7 +97,7 @@ body {
     
     </script>
     
-    
+   <!-- 003f4000004fV4e is the entity we care about for the feed -->    
   
    <chatter:feed entityId="003f4000004fV4e" rendered="true"/>
    
