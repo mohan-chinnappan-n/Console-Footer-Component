@@ -13,6 +13,8 @@ This component scrapes the top level items in a feed and scrolls them in a custo
 
 Please note that this is sample code. It must be enhanced and tested to production quality as required if you choose to utilize it.
 
+You can configure the refresh by changing  value of ```rate``` in ms.
+
 
 ```xml
 
