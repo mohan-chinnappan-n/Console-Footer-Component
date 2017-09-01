@@ -107,7 +107,8 @@ body {
         function srcUp(url) {
             sforce.console.openPrimaryTab(null, url, true);
         }
-        
+       
+        // refresh rate in ms 
         var rate = 10000;
         
         setInterval(function(){window.location.href = window.location.href;},rate);
