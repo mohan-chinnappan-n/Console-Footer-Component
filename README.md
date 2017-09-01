@@ -131,6 +131,3 @@ body {
 ### References
 
 1. [The "Marquee" Console Footer Component](https://developer.salesforce.com/page/The_%22Marquee%22_Console_Footer_Component)
-[Ref: The "Marquee" Console Footer Component](https://developer.salesforce.com/page/The_%22Marquee%22_Console_Footer_Component)
-[Ref: The "Marquee" Console Footer Component](https://developer.salesforce.com/page/The_%22Marquee%22_Console_Footer_Component)
-https://developer.salesforce.com/page/The_%22Marquee%22_Console_Footer_Component
