@@ -9,6 +9,11 @@
 ------
 ### Code for the footer component
 
+This component scrapes the top level items in a feed and scrolls them in a custom Console footer component.
+
+Please note that this is sample code. It must be enhanced and tested to production quality as required if you choose to utilize it.
+
+
 ```xml
 
 <apex:page showHeader="false">
