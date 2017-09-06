@@ -150,6 +150,10 @@ When new posts are added to a live feed, a message appears briefly at the top of
 
 
 
+### Step-by-step instructions about how to setup this component in Console
+
+[Step-by-step instructions](./steps.md)
+
 
 ### References
 
