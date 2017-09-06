@@ -125,7 +125,7 @@ body {
 </apex:page>
                                         
 
-``xml 
+```xml 
 
 
 ![ChatterFooterComp](img/ChatterFooterComp.png)
