@@ -1,4 +1,4 @@
-## Step-by-step instructions about how to setup a footer component in ClassicConsole
+## Step-by-step instructions about how to setup a footer component in Classic Console
 
 
 #### Demo-1
