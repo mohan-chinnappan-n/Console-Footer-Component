@@ -4,8 +4,8 @@
 
 1. Create Visualforce page named ChatterFooterComp with content as shown below:
 
-```xml
 
+```xml
 <apex:page showHeader="false">
 
 <style>
@@ -125,7 +125,7 @@ body {
 </apex:page>
                                         
 
-```xml 
+```
 
 
 ![ChatterFooterComp](img/ChatterFooterComp.png)
