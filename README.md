@@ -148,6 +148,13 @@ When new posts are added to a live feed, a message appears briefly at the top of
 
 ![live feed](https://releasenotes.docs.salesforce.com/en-us/winter17/release-notes/release_notes/images/lex_chatter_live_feed_pill.png)
 
+------
+
+Comments Are Now Live!
+
+Lightning Experience brings you real-time comments. No more page refreshes required to see what people are saying about a post at the exact moment they say it. Each new comment is briefly highlighted to call it to your attention. Comments refresh and stay live after you subscribe to them. Subscription is easy; just click in the comment field. This feature is available in Lightning Experience only.
+
+
 
 ![live comments](https://releasenotes.docs.salesforce.com/en-us/winter17/release-notes/release_notes/images/rn_204_chatter_livecomment.png)
 
