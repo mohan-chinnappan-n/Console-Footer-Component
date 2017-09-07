@@ -149,6 +149,8 @@ When new posts are added to a live feed, a message appears briefly at the top of
 ![live feed](https://releasenotes.docs.salesforce.com/en-us/winter17/release-notes/release_notes/images/lex_chatter_live_feed_pill.png)
 
 
+![live comments](https://releasenotes.docs.salesforce.com/en-us/winter17/release-notes/release_notes/images/rn_204_chatter_livecomment.png)
+
 
 ### Step-by-step instructions about how to setup this component in Console
 
@@ -168,3 +170,5 @@ When new posts are added to a live feed, a message appears briefly at the top of
 5. [Customize a Console with Custom Components in Salesforce Classic](https://portal2dev-dreamevent.cs61.force.com/articleView?id=console2_components_overview.htm&type=5)
 
 6. [chatter:feed](https://developer.salesforce.com/docs/atlas.en-us.pages.meta/pages/pages_compref_chatter_feed.htm)
+
+7. [Comments Are Now Live!](https://releasenotes.docs.salesforce.com/en-us/winter17/release-notes/rn_chatter_lex_live_comments.htm)
