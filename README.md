@@ -159,6 +159,7 @@ Lightning Experience brings you real-time comments. No more page refreshes requi
 ![live comments](https://releasenotes.docs.salesforce.com/en-us/winter17/release-notes/release_notes/images/rn_204_chatter_livecomment.png)
 
 
+-----
 ### Step-by-step instructions about how to setup this component in Console
 
 [Step-by-step instructions](./steps.md)
