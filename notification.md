@@ -1,4 +1,4 @@
-#### Demo showing Chatter notification Lightning Experience
+#### Demo showing Chatter notifications in Lightning Experience
 
 ##### Showing a user (Joe) get notified when Joe gets chatter post from another user :
 
